@@ -6,7 +6,7 @@
   <link href="http://yuanfen1314tiankong.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuanfen1314tiankong.github.io/"/>
-  <updated>2022-06-28T03:19:55.889Z</updated>
+  <updated>2022-06-30T11:29:41.666Z</updated>
   <id>http://yuanfen1314tiankong.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot-2</title>
+    <link href="http://yuanfen1314tiankong.github.io/2022/06/30undefined.html"/>
+    <id>http://yuanfen1314tiankong.github.io/2022/06/30undefined.html</id>
+    <published>2022-06-30T11:07:30.000Z</published>
+    <updated>2022-06-30T11:29:41.666Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;45、web实验-抽取公共页面&quot;&gt;&lt;a href=&quot;#45、web实验-抽取公共页面&quot; class=&quot;headerlink&quot; title=&quot;45、web实验-抽取公共页面&quot;&gt;&lt;/a&gt;45、web实验-抽取公共页面&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="SpringBoot" scheme="http://yuanfen1314tiankong.github.io/categories/SpringBoot/"/>
+    
+    
+    <category term="SpringBoot" scheme="http://yuanfen1314tiankong.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot-1</title>
+    <link href="http://yuanfen1314tiankong.github.io/2022/06/30undefined.html"/>
+    <id>http://yuanfen1314tiankong.github.io/2022/06/30undefined.html</id>
+    <published>2022-06-30T10:30:50.000Z</published>
+    <updated>2022-06-30T11:29:48.459Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;﻿## 01、基础入门-SpringBoot2课程介绍&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Spring Boot 2核心技术&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Spring Boot</summary>
+        
+      
+    
+    
+    
+    <category term="SpringBoot" scheme="http://yuanfen1314tiankong.github.io/categories/SpringBoot/"/>
+    
+    
+    <category term="SpringBoot" scheme="http://yuanfen1314tiankong.github.io/tags/SpringBoot/"/>
+    
+  </entry>
   
   <entry>
     <title>mybatis-1</title>
